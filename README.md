@@ -1,4 +1,4 @@
-# Image Classification from Scratch — XNDL
+# Image Classification — XNDL
 
 Projecte desenvolupat per a l'assignatura **Xarxes Neuronals i Deep Learning (XNDL)** del Grau en Intel·ligència Artificial de la UPC.
 
